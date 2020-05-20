@@ -1,0 +1,10 @@
+- 数组初始化：
+    1. int[] arr = new int {1,2,3,4}
+
+
+
+- 数组排序：Arrays.sort(arr)
+- 数组查找元素:Arrays.binarySearch(array)
+
+
+数组相关的api：Array,Arrays
